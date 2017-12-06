@@ -9,8 +9,8 @@ This website provide information about
 
 # Screenshots
 
-<img src="scrs/in1.JPG" alt="Menu" width="800" height="400">&nbsp;
-<img src="scrs/in2.JPG" alt="Menu" width="800" height="400">&nbsp;
-<img src="scrs/in3.JPG" alt="Menu" width="800" height="400">&nbsp;
+<img src="srcs/in1.JPG" alt="Menu" width="800" height="400">&nbsp;
+<img src="srcs/in2.JPG" alt="Menu" width="800" height="400">&nbsp;
+<img src="srcs/in3.JPG" alt="Menu" width="800" height="400">&nbsp;
 
 # Author : Alabi Sodiq
